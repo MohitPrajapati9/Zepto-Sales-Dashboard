@@ -52,8 +52,7 @@ To design a data-driven sales dashboard that gives actionable insights into:
 
 ## 🎨 Dashboard Preview
 
-> *(Insert your image here once uploaded)*  
-> ![Zepto Sales Dashboard Preview](dashboard.png)
+> ![Zepto Sales Dashboard Preview](Dashboard.png)
 
 ---
 
