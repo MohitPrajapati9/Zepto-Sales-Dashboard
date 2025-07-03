@@ -70,7 +70,7 @@ To design a data-driven sales dashboard that gives actionable insights into:
 **Mohit Prajapati**  
 Aspiring Data Analyst skilled in Excel, SQL, Python, Power BI  
 📧 mohitprajapati4095@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-link-here)
+🔗 [LinkedIn](www.linkedin.com/in/mohit-prajapati-8565a034b)
 
 ---
 
